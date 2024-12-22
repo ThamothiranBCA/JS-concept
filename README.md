@@ -1,1 +1,1 @@
-# JS-concept
+# Javascript-Template
